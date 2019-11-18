@@ -1,2 +1,3 @@
 FLASK_APP=todoism
 FLASK_ENV=development
+FLASK_RUN_PORT=8080
